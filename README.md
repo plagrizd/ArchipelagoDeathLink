@@ -122,6 +122,13 @@ Runtime (gitignored):
 
 ---
 
+## Streamer.bot
+
+See streamerbot/README_streamerbot.txt for a quickstart with
+the deathBotURL global variable and a “DL – Twitch Cheers” example.
+
+---
+
 ## Troubleshooting
 - **Overlay not updating / banner missing** — ensure `deathlink_trigger.txt` is writable and next to `death.py`.
 - **No deaths firing** — confirm the local Archipelago client is connected; look for “DeathLink sent!” in console.
