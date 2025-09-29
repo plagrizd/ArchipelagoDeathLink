@@ -124,8 +124,7 @@ Runtime (gitignored):
 
 ## Streamer.bot
 
-See streamerbot/README_streamerbot.txt for a quickstart with
-the deathBotURL global variable and a “DL – Twitch Cheers” example.
+See streamerbot/README_streamerbot.txt for a quickstart with the deathBotURL global variable and a “DL – Twitch Cheers” example.
 
 ---
 
