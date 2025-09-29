@@ -1,0 +1,11 @@
+{
+  "deaths_per_twitch_sub": 3,
+  "deaths_per_tiktok_sub": 2,
+  "bits_per_death": 100,
+  "coins_per_death": 100,
+  "http_port": 5000,
+  "websocket_port": "54802",
+  "min_dispatch_seconds": 240,
+  "max_dispatch_seconds": 480,
+  "auth_key": "CHANGE_ME"
+}

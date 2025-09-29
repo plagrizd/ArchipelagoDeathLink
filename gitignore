@@ -1,0 +1,29 @@
+# --- Python bytecode / caches ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Runtime / generated files ---
+deathlink_queue.txt
+deathlink_trigger.txt
+stats.txt
+logs/
+*.log
+*.sqlite*
+*.db
+
+# --- Local configuration (keep private) ---
+config.json
+/secrets/
+
+# --- Node/build (if you add tooling later) ---
+node_modules/
+dist/
+build/
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
