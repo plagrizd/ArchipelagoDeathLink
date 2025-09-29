@@ -1,0 +1,4 @@
+# ArchiDeathLink runtime deps
+# Python 3.10+
+aiohttp~=3.9
+websockets~=12.0
