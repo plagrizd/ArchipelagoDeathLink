@@ -147,3 +147,12 @@ See streamerbot/README_streamerbot.txt for a quickstart with the deathBotURL glo
 
 ## License
 MIT. See `LICENSE`.
+
+---
+
+## Shoutout
+
+Huge thanks to **Archipelago** for the multiworld platform and DeathLink system that make this possible.  
+Website: [https://archipelago.gg](https://archipelago.gg)  
+GitHub: [https://github.com/ArchipelagoMW/Archipelago](https://github.com/ArchipelagoMW/Archipelago)
+
